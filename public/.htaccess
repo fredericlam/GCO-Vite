@@ -1,0 +1,27 @@
+#AuthName "Nordcan prototype"
+#AuthType Basic
+#AuthUserFile "/home/gco/web/nordcan-9c810199/.htpasswd"
+#Require valid-user
+
+#RewriteEngine On 
+#ErrorDocument 404 https://gco.iarc.fr/404.php
+#RewriteCond %{HTTPS} off 
+#RewriteRule ^(.*)$ https://%{HTTP_HOST}%{REQUEST_URI} [L,R=301]
+
+ErrorDocument 404 /404
+ErrorDocument 403 /404
+
+# FOR Vite JS
+<IfModule mod_rewrite.c>
+RewriteEngine On
+RewriteBase /
+RewriteRule ^index\.html$ - [L]
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteCond %{REQUEST_FILENAME} !-d
+RewriteRule . /index.html [L]
+Redirect permanent "/resources.php" "/projects"
+Redirect permanent "/databases.php" "/projects"
+Redirect permanent "/resources/csa.php" "/projects/csa"
+Redirect permanent "/resources/paf-france_fr.php" "/projects/paf-france-fr"
+Redirect permanent "/resources/paf-france_en.php" "/projects/paf-france-en"
+</IfModule>

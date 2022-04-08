@@ -1,0 +1,42 @@
+[
+	  {
+	    "id": 23,
+	    "name" : "Infographic - GLOBOCAN 2020",
+	    "desc" : "" ,
+	    "thumb" : "/img/home/story1.png" ,  
+	    "overlay" : false ,
+	    "background": "#6FC0AE" , 
+	    "url" : "https://infogram.com/globocan-2020-1h9j6qg7xdp8v4g?live" ,  
+	    "tags" : [ "story" , "infographic"]
+	  },
+	  {
+	    "id": 24,
+	    "name" : "Infographic - International Childhood Cancer Day",
+	    "desc" : "" ,
+	    "thumb" : "/img/home/story2.png" ,  
+	    "overlay" : false ,
+	    "background": "#6FC0AE" , 
+	    "url" : "https://infogram.com/15-feb-international-childhood-cancer-day-1h1749vwqg1xl6z?live" ,  
+	    "tags" : [ "story" , "infographic"]
+	  },
+	  {
+	    "id": 25,
+	    "name" : "Infographic - International HPV Awareness Day",
+	    "desc" : "" ,
+	    "thumb" : "/img/home/story3.png" ,  
+	    "overlay" : false ,
+	    "background": "#6FC0AE" , 
+	    "url" : "https://infogram.com/4-mar-international-hpv-awareness-day-1h1749vkv91vq6z?live" ,  
+	    "tags" : [ "story" , "infographic"]
+	  },
+	  {
+	    "id": 26,
+	    "name" : "Infographic - Cancer among young adults",
+	    "desc" : "" ,
+	    "thumb" : "/img/home/story7.png" ,  
+	    "overlay" : false ,
+	    "background": "#6FC0AE" , 
+	    "url" : "https://infogram.com/ovarian-cancer-1hzj4o38g5mgo4p?live" ,  
+	    "tags" : [ "story" , "infographic" ]
+	  }
+]

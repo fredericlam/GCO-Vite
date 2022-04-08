@@ -1,0 +1,184 @@
+[ 
+  {
+    "id": 1,
+    "name" : "All bars chart from CI5XI all ASR male ",
+    "desc" : "" ,
+    "thumb" : "/img/infographics/CI5XI_country_asr_male_color.png" ,  
+    "thumb_modal" : "/img/infographics/CI5XI_country_asr_male_color_modal.png" ,  
+    "overlay" : false ,
+    "urls" : {
+      "pptx" : "/img/infographics/CI5XI_country_asr_male_color.pptx" ,  
+      "pdf" : "/img/infographics/CI5XI_country_asr_male_color.pdf" ,  
+      "png" : "/img/infographics/CI5XI_country_asr_male_color.zip"   
+    },
+    "tags" : [ "asr" , "CI5XI" , "incidence" , "pptx" , "png" , "pdf" ] , 
+    "ext" : "pptx" 
+  },
+  {
+    "id": 1.1,
+    "name" : "All bars chart from CI5XI Asia ASR female",
+    "desc" : "" ,
+    "thumb" : "/img/infographics/CI5XI_registry_Asia_asr_female_color.png" ,  
+    "overlay" : false ,
+    "urls" : { 
+      "pptx" : "/img/infographics/CI5XI_registry_Asia_asr_female_color.pptx" 
+    } ,  
+    "tags" : [ "asr" , "CI5XI" , "incidence" , "pptx" ] , 
+    "ext" : "pptx" 
+  },
+  {
+    "id": 1.2,
+    "name" : "All bars chart from CI5XI Europe ASR female",
+    "desc" : "" ,
+    "thumb" : "/img/infographics/CI5XI_registry_Europe_asr_female_color.png" ,  
+    "overlay" : false ,
+    "urls" : { "pptx" : "/img/infographics/CI5XI_registry_Europe_asr_female_color.pptx" } ,  
+    "tags" : [ "asr" , "CI5XI" , "incidence" , "pptx" ] , 
+    "ext" : "pptx" 
+  },
+  {
+    "id": 1.3,
+    "name" : "CI5XI North America ASR male color",
+    "desc" : "" ,
+    "thumb" : "/img/infographics/CI5XI_registry_NAmerica_asr_female_color.png" ,  
+    "overlay" : false ,
+    "urls" : { "pptx" : "/img/infographics/CI5XI_registry_NAmerica_asr_female_color.pptx" } ,  
+    "tags" : [ "asr" , "CI5XI" , "incidence" , "pptx" ] , 
+    "ext" : "pptx" 
+  },
+  {
+    "id": 2,
+    "name" : "Incidence, both sexes, all cancers",
+    "desc" : "The Cancer Burden through a gallery ... " ,
+    "thumb" : "/img/infographics/gallery1.png" ,  
+    "urls" : { 
+      "png" : "/img/infographics/gallery1.png"
+    },
+    "overlay" : true , 
+    "tags" : [ "incidence" , "liver" , "png" ], 
+    "ext" : "png" 
+  },
+  {
+    "id": 2,
+    "name" : "Mortality, both sexes, all cancers",
+    "thumb" : "/img/infographics/gallery2.png" ,  
+    "urls" : { 
+      "png" : "/img/infographics/gallery2.png"
+    },
+    "overlay" : true , 
+    "tags" : [ "mortality" , "breast" , "png" ], 
+    "ext" : "png" 
+  },
+  {
+    "id": 4,
+    "name" : "Top cancer by country, ASR (World), both sexes, age 0-19",
+    "thumb" : "/img/infographics/gallery4.png" ,  
+    "urls" : { 
+      "png" : "/img/infographics/gallery4.png"
+    },
+    "overlay" : true , 
+    "tags" : [ "incidence" , "png" ], 
+    "ext" : "png" 
+  },
+  {
+    "id": 5,
+    "name" : "Cancer Burden increase between 2012 and 2030",
+    "thumb" : "/img/infographics/gallery5.png" ,  
+    "urls" : { 
+      "png" : "/img/infographics/gallery5.png"
+    },
+    "overlay" : true , 
+    "tags" : [ "incidence" , "breast" , "liver" , "pdf" ], 
+    "url" : "/img/infographics/gallery5.pdf" ,  
+    "ext" : "pdf" 
+  },
+  {
+    "id": 6,
+    "name" : "Proportion of incidence and Mortality, in 2018",
+    "thumb" : "/img/infographics/gallery6.png" , 
+    "urls" : { 
+      "png" : "/img/infographics/gallery6.png"
+    },
+    "tags" : [ "mortality" , "breast" , "liver" , "png" ],
+    "overlay" : true , 
+    "ext" : "png" 
+  },
+  {
+    "id": 7,
+    "name" : "Human Development Index 2015",
+    "thumb" : "/img/infographics/gallery7.png" ,  
+    "urls" : { 
+      "png" : "/img/infographics/gallery7.png"
+    },
+    "overlay" : true , 
+    "tags" : [ "incidence" , "hdi" , "prostate" , "png" ], 
+    "ext" : "png" 
+  },
+  {
+    "id": 8,
+    "name" : "Incidence vs Mortality, males versus females, by HDI",
+    "thumb" : "/img/infographics/gallery9.png" , 
+    "urls" : { 
+      "png" : "/img/infographics/gallery9.png"
+    }, 
+    "overlay" : true , 
+    "tags" : [ "incidence","mortality" ,"colon", "pdf"] , 
+    "url" : "/img/infographics/gallery9.pdf" ,  
+    "ext" : "pdf" 
+  },
+  {
+    "id": 10,
+    "name" : "Estimated number of cancer cases in 2020, cervix uteri, all ages",
+    "thumb" : "/img/infographics/gallery11.png" ,  
+    "urls" : { 
+      "png" : "/img/infographics/gallery11.png"
+    },
+    "overlay" : true , 
+    "tags" : [ "other_cancer_site","incidence" , "png"], 
+    "ext" : "png" 
+  },
+  {
+    "id": 12,
+    "name" : "Incidence methods map, in 2018" , 
+    "thumb" : "/img/infographics/gallery13.png" ,  
+    "urls" : { 
+      "png" : "/img/infographics/gallery13.png"
+    },
+    "overlay" : true , 
+    "tags" : [ "incidence" , "methods" , "png"], 
+    "ext" : "png" 
+  },
+  {
+    "id": 13,
+    "name" : "Incidence quality and coverage, in 2018",
+    "thumb" : "/img/infographics/gallery14.png" ,  
+    "urls" : { 
+      "png" : "/img/infographics/gallery14.png"
+    },
+    "overlay" : true , 
+    "tags" : [ "incidence" , "quality coverage","today", "png"], 
+    "ext" : "png" 
+  },
+  {
+    "id": 14,
+    "name" : "Proportion of incidence, mortality and 5-years prevalence, in 2018",
+    "thumb" : "/img/infographics/gallery15.png" ,  
+    "urls" : { 
+      "png" : "/img/infographics/gallery15.png"
+    },
+    "overlay" : true , 
+    "tags" : [ "incidence","today", "png"], 
+    "ext" : "png" 
+  },
+  {
+    "id": 15,
+    "name" : "Proportion of incidence, mortality and prevalence",
+    "thumb" : "/img/infographics/gallery16.png" ,  
+    "urls" : { 
+      "png" : "/img/infographics/gallery16.png"
+    },
+    "overlay" : true , 
+    "tags" : [ "incidence","mortality","today","prevalence", "png"], 
+    "ext" : "png" 
+  }
+]

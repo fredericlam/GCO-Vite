@@ -1,0 +1,56 @@
+[	
+	{
+		"id": 9,
+		"date" : "24 November 2021" , 
+		"url" : "https://gco.iarc.fr/overtime" , 
+		"desc" : "Launch of Cancer Over Time on IARC Global Cancer Observatory website" 
+	},
+	{
+		"id": 8,
+		"date" : "14 October 2021" , 
+		"url" : "https://iarc.who.int/news-events/video-ms-harriet-rumgay-on-how-alcohol-consumption-can-cause-cancer/" , 
+		"desc" : "Ms Harriet Rumgay on how alcohol consumption can cause cancer" 
+	},
+	{
+		"id": 7,
+		"date" : "12 October 2021" , 
+		"url" : "http://www.iacr.com.fr/index.php?option=com_content&view=article&id=182&Itemid=584" , 
+		"desc" : "IACR 2021 Virtual Scientific Conference" 
+	},
+	{
+		"id": 6,
+		"date" : "8th May 2021" , 
+		"url" : "https://t.co/XlRCw3RpAP?amp=1" , 
+		"desc" : "Find out more about ovarian cancer around the world in our new story for #WOCD2021." 
+	},
+	{
+		"id": 5,
+		"date" : "15th April 2021" , 
+		"url" : "https://t.co/4HIeQFHWcO?amp=1" , 
+		"desc" : "CanReg5 update 44h is now live" 
+	},
+	{
+		"id": 4,
+		"date" : "6th April 2021" , 
+		"url" : "https://t.co/1ao9VF6TW5?amp=1" , 
+		"desc" : "Around 1.2 million young adults (aged 20-39) were diagnosed with cancer globally in 2020, and 360,000 died from the disease." 
+	},
+	{
+		"id": 3,
+		"date" : "24th February 2021" , 
+		"url" : "https://nordcan.iarc.fr/" , 
+		"desc" : "Nordcan: version 9.0 is now available, including incidence, mortality, prevalence and survival in the Nordic countries up to and including 2018." 
+	},
+	{
+		"id": 2,
+		"date" : "20th December 2020" , 
+		"url" : "https://gco.iarc.fr/today/home" , 
+		"desc" : "New estimates of the global burden of #cancer in 2020 now published in Cancer Today." 
+	},
+	{
+		"id": 1,
+		"date" : "4th July 2020" , 
+		"url" : "https://t.co/w5axSluxdD?amp=1" , 
+		"desc" : "As part of the ICBP SURVMARK-2 study explored #ovariancancer survival by stage with the greatest differences seen in older women with advanced stage disease." 
+	}
+]

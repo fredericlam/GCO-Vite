@@ -1,0 +1,28 @@
+,
+  {
+    "id": 20,
+    "name" : "Incidence trends for the most common cancers in Iran: recorded (2008‐16) (solid line) and predicted (2020 and 2025) rates with 95% confidence intervals",
+    "desc" : "" ,
+    "thumb" : "/img/infographics/iran.jpeg" ,  
+    "overlay" : false ,
+    "url" : "https://pubmed.ncbi.nlm.nih.gov/33884608/" ,  
+    "tags" : [ "publications" , "incidence" ]
+  },
+  {
+    "id": 21,
+    "name" : "Age-standardised incidence rates of thyroid cancer in women, with number of cases and proportions attributable to overdiagnosis, 2008–12",
+    "desc" : "" ,
+    "thumb" : "/img/infographics/thyroid.jpeg" ,  
+    "overlay" : false ,
+    "url" : "https://www.sciencedirect.com/science/article/abs/pii/S2213858721000838?via%3Dihub" ,  
+    "tags" : [ "publications" , "incidence" , "thyroid" ]
+  },
+  {
+    "id": 22,
+    "name" : "Number of cervical cancer cases (A) and lifetime incidence (B) expected among women born between 2005 and 2014, by country",
+    "desc" : "" ,
+    "thumb" : "/img/infographics/cervix.jpg" ,  
+    "overlay" : false ,
+    "url" : "https://pubmed.ncbi.nlm.nih.gov/33864738/" ,  
+    "tags" : [ "publications" , "incidence" , "other_cancer_site" ]
+  }

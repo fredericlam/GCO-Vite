@@ -1,0 +1,292 @@
+[	
+	{
+		"id": 1,
+		"name": "Cancer Today",
+		"desc" : "Presents national estimates of the incidence, mortality,and prevalence of 36 cancer types in 185 countries, by sex and age group for the year 2020.",
+		"image" : "" ,
+		"url" : "https://gco.iarc.fr/today" ,  
+		"background" : "#e6a160" , 
+		"order" : "" , 
+		"tags" : [ "registries" , "database" , "datavisualization" ] , 
+		"is_footer" : true 
+	},
+	{
+		"id": 1,
+		"name": "Cancer Over Time",
+		"desc": "Presents time trends of cancer incidence and mortality over the course of over half a century, based on high-quality data from 60 countries." , 
+		"image" : "" ,
+		"url" : "https://gco.iarc.fr/overtime" ,  
+		"background" : "#2f538a" , 
+		"order" : "" , 
+		"tags" : [ "registries" , "datavisualization" , "datavisualization" ], 
+		"is_footer" : true 
+	},
+	{
+		"id": 1,
+		"name": "Cancer Tomorrow",
+		"desc": "Predicts the future cancer incidence and mortality burden worldwide up until 2040." , 
+		"image" : "" ,
+		"url" : "https://gco.iarc.fr/tomorrow" ,  
+		"background" : "#4298c7" , 
+		"order" : "",
+		"tags" : [ "registries" , "database" , "datavisualization" ], 
+		"is_footer" : true 
+	},
+	{
+		"id": 1,
+		"name": "Cancer incidence in five continents (CI5)",
+		"desc": "High-quality cancer incidence data compiled from population-based cancer registries (regional and national) around the world." , 
+		"image" : "" ,
+		"url" : "http://ci5.iarc.fr/" ,  
+		"order" : "" , 
+		"tags" : [ "registries" , "database" ]
+	},
+	{
+		"id": 5 ,
+		"name": "NORDCAN",
+		"desc": "Comparable cancer statistics for Denmark, Finland, Iceland, Norway, Sweden, the Faroe Islands, and Greenland" , 
+		"image" : "" ,
+		"url" : "https://nordcan.iarc.fr/" ,  
+		"background" : "#8E1938" , 
+		"order" : "" , 
+		"tags" : [ "registries" , "database" , "datavisualization" ]
+	},
+	{
+		"id": 6 ,
+		"name": "ACCIS",
+		"desc": "The Automated Childhood Cancer Information System" , 
+		"image" : "" ,
+		"url" : "http://accis.iarc.fr/" ,  
+		"order" : "" , 
+		"background" : "#FDB714",
+		"tags" : [ "registries" , "database" , "childhood" , "software" ]
+	},
+	{
+		"id": 7 ,
+		"name": "IICC",
+		"desc": "International Incidence of Childhood Cancer." , 
+		"image" : "" ,
+		"url" : "http://iicc.iarc.fr/" ,  
+		"order" : "" , 
+		"background" : "#FDB714", 
+		"tags" : [ "registries" , "database" , "childhood"  ]
+	},
+	{
+		"id": 7.1 ,
+		"name": "CRICCS",
+		"desc": "Cancer Risk in Childhood Cancer Survivors" , 
+		"image" : "" ,
+		"url" : "https://criccs.iarc.who.int" ,  
+		"order" : "" , 
+		"background" : "#FDB714", 
+		"tags" : [ "childhood"  ]
+	},
+	{
+		"id": 7.2 ,
+		"name": "ICCC",
+		"desc": "International Classification of Childhood Cancer" , 
+		"image" : "" ,
+		"url" : "https://iicc.iarc.fr/classification" ,  
+		"order" : "" , 
+		"background" : "#FDB714", 
+		"tags" : [ "childhood" , "codes" ]
+	},
+	{
+		"id": 8 ,
+		"name": "Cancer attributable to obesity",
+		"desc": "Presents the estimated global burden of cancer attributable to excess body weight in 2012." , 
+		"image" : "" ,
+		"background" : "#54b07c" , 
+		"url" : "https://gco.iarc.fr/causes/obesity" ,  
+		"order" : "" , 
+		"tags" : [ "registries" , "causes" , "database"  , "datavisualization" ], 
+		"is_footer" : true 
+	},
+	{
+		"id": 9 ,
+		"name": "Cancer attributable to infections",
+		"desc": "Presents the estimated global cancer incidence in 2012 attributable to ultraviolet (UV) radiation exposure." , 
+		"image" : "" ,
+		"background" : "#54b07c" , 
+		"url" : "https://gco.iarc.fr/causes/infections" ,  
+		"order" : "" , 
+		"tags" : [ "registries" , "database" , "causes" , "datavisualization" ], 
+		"is_footer" : true 
+	},
+	{
+		"id": 10 ,
+		"name": "Cancer attributable to UV",
+		"desc": "An interactive tools for analysing and visualizing data on the estimated global cancer incidence in 2012 attributable to ultraviolet (UV) radiation exposure." , 
+		"image" : "" ,
+		"background" : "#54b07c" , 
+		"url" : "https://gco.iarc.fr/causes/uv" ,  
+		"order" : "" , 
+		"tags" : [ "registries" , "database" , "causes" , "datavisualization" ], 
+		"is_footer" : true 
+	},
+	{
+		"id": 10.1 ,
+		"name": "Cancer attributable to Alcohol",
+		"desc": "An interactive tools for analysing and visualizing data on the estimated global cancer incidence in 2020 attributable to alcohol." , 
+		"image" : "" ,
+		"background" : "#54b07c" , 
+		"url" : "https://gco.iarc.fr/causes/alcohol" ,  
+		"order" : "" , 
+		"tags" : [ "registries" , "database" , "causes" , "datavisualization" ], 
+		"is_footer" : true 
+	},
+	{
+		"id": 11 ,
+		"name": "GICR",
+		"desc": "The Global Initiative for Cancer Registry Development" , 
+		"image" : "" ,
+		"url" : "https://girc.iarc.fr" ,  
+		"background" : "#EB1C2E" , 
+		"order" : "" , 
+		"tags" : [ "registries" ], 
+		"is_footer" : true 
+	},
+	{
+		"id": 11.1 ,
+		"name": "ChildGICR",
+		"desc": "Targeting Childhood Cancer through the Global Initiative for Cancer Registry Development" , 
+		"image" : "" ,
+		"url" : "https://gicr.iarc.fr/child-gicr" ,  
+		"background" : "#EB1C2E" , 
+		"order" : "" , 
+		"tags" : [ "registries" , "childhood" ], 
+		"is_footer" : true 
+	},
+	{
+		"id": 12 ,
+		"name": "IACR",
+		"desc": "The International Association of Cancer Registries" , 
+		"image" : "" ,
+		"url" : "http://www.iacr.com.fr/" ,  
+		"background" : "#EB1C2E" , 
+		"order" : "" , 
+		"tags" : [ "registries" ], 
+		"is_footer" : true 
+	},
+	{
+		"id": 13 ,
+		"name": "CIN Portal",
+		"desc": "The Registries Portal at IARC" , 
+		"image" : "" ,
+		"url" : "https://cinportal.iarc.fr/" ,  
+		"order" : "" , 
+		"tags" : [ "registries" , "database" ]
+	},
+	{
+		"id": 14.1 ,
+		"name": "SURVCAN",
+		"desc": "Cancer Survival in Countries in Transition" , 
+		"image" : "" ,
+		"background" : "#895399" , 
+		"url" : "https://survival.iarc.fr/survcan/" ,  
+		"order" : "" , 
+		"tags" : [ "registries" , "database" , "survival" ], 
+		"is_footer" : true 
+	},
+	{
+		"id": 14.2 ,
+		"name": "SURVMARK",
+		"desc": "Cancer Survival in High-Income Countries" , 
+		"image" : "" ,
+		"background" : "#895399" , 
+		"url" : "https://survival.iarc.fr/survmark/" ,  
+		"order" : "" , 
+		"tags" : [ "registries" , "database" , "survival" ], 
+		"is_footer" : true 
+	},
+	{
+		"id": 14.3 ,
+		"name": "SURVPOOL",
+		"desc": "A Consortium on Risk Factors and Cancer Survival" , 
+		"image" : "" ,
+		"background" : "#895399" , 
+		"url" : "https://survival.iarc.fr/survpool/" ,  
+		"order" : "" , 
+		"tags" : [ "registries" , "database" , "survival" ], 
+		"is_footer" : true 
+	},
+	{
+		"id": 20 ,
+		"name": "ICBP-2 SURVMARK",
+		"desc": "Interactive tools for analysing and visualizing data on the estimated population-based cancer survival from specific cancer type." , 
+		"image" : "" ,
+		"background" : "#895399" , 
+		"url" : "http://gco.iarc.fr/survival/survmark/" ,  
+		"order" : "" , 
+		"tags" : [ "registries" , "survival", "datavisualization"]
+	},{
+		"id": 15 ,
+		"name": "ICD-O-3",
+		"desc": "The International Classification of Diseases for Oncology, 3rd Edition (ICD-O-3)" , 
+		"image" : "" ,
+		"url" : "http://www.iacr.com.fr/index.php?option=com_content&view=category&layout=blog&id=100&Itemid=577" ,  
+		"order" : "" , 
+		"tags" : [ "registries" , "codes" ]
+	},
+	{
+		"id": 16 ,
+		"name": "ICD-10",
+		"desc": "The International Statistical Classification of Diseases and Related Health Problems, 10th Revision" , 
+		"image" : "" ,
+		"url" : "http://apps.who.int/classifications/icd10/browse/2010/en" ,  
+		"order" : "" , 
+		"tags" : [ "registries" , "codes" ]
+	},
+	{
+		"id": 17 ,
+		"name": "CanReg5",
+		"desc": "Operational software for population-based cancer registries" , 
+		"image" : "" ,
+		"url" : "http://www.iacr.com.fr/index.php?option=com_content&view=category&layout=blog&id=68&Itemid=445" ,  
+		"order" : "" , 
+		"background" : "#48773E",
+		"tags" : [ "registries" , "software" ], 
+		"is_footer" : true 
+	},
+	{
+		"id": 19 ,
+		"name": "Cancer in Central and South America Project",
+		"desc": "Collaboration between the Branch of Cancer Surveillance of IARC, the Red de Institutos e Instituciones Nacionales de Cáncer (RINC) and cancer registries in the Central and South American region." , 
+		"image" : "" ,
+		"url" : "/projects/csa" ,  
+		"order" : "" , 
+		"internal" : true ,
+		"tags" : [ "registries" ]
+	},
+	{
+		"id": 20 ,
+		"name": "Causes du Cancer en France, en 2015",
+		"desc": "Estimates the number of new cases attributable to the major risk factors in France in 2015." , 
+		"image" : "" ,
+		"url" : "/projects/paf-france-en" ,  
+		"order" : "" , 
+		"internal" : true ,
+		"tags" : [ "registries" , "causes"]
+	},
+	{
+		"id": 20 ,
+		"name": "Global burden of gastrointestinal cancers",
+		"desc": "Gastrointestinal (GI) cancers account for 1 in 4 cancer cases and 1 in 3 cancer deaths globally. There is considerable variation in incidence and mortality rates across the world." , 
+		"image" : "" ,
+		"background" : "#DB306A" , 
+		"url" : "https://gco.iarc.fr/stories/gastro-intestinal/en" ,  
+		"order" : "" , 
+		"tags" : [ "datavisualization" , "story"  ]
+	},
+	{
+		"id": 20 ,
+		"name": "Infographics",
+		"desc": "An expanding set of infographics built with infogram." , 
+		"image" : "" ,
+		"background" : "#F76E7A" , 
+		"url" : "/projects/infographics" ,  
+		"order" : "" , 
+		"internal" : true ,
+		"tags" : [ "datavisualization" ,"infographics" ]
+	}
+]
